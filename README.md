@@ -6,6 +6,7 @@ You just complete the **captcha** – everything else (registration + email conf
 ## ⚡ Features
 
 * 📧 Automatic email generation & verification
+* ✨ No Rate Limits (if using proxies)
 * 🤖 Semi-auto registration (captcha needs to be solved manually)
 * 🔐 Secure connections (TLS, SSL)
 * 📨 IMAP support for fetching verification emails
